@@ -12,4 +12,4 @@ Flight delays cost the US airline industry and economy between $30 and $34 billi
 Sampling enabled faster SQL iteration and query optimization during development while preserving statistical representativeness across all carriers, routes, and seasons.
 Analysis focuses on departure and arrival delays, airline-controllable vs. weather-driven delays, route performance, seasonal patterns, and cancellation root causes.
 
-![Schema Diagram](images/schema-diagram.png)
+![Schema Diagram](schema-diagram.png)
