@@ -7,6 +7,9 @@ Flight delays cost the US airline industry and economy between $30 and $34 billi
 
 ## Dataset 
 **Source:** Kaggle — 2015 Flight Delays and Cancellations Volume: Original 5.8M rows, sampled 500K for analysis 
+
 **Tables: 3 —** airlines (14 rows), airports (322 rows), flights (500K rows)
 Sampling enabled faster SQL iteration and query optimization during development while preserving statistical representativeness across all carriers, routes, and seasons.
 Analysis focuses on departure and arrival delays, airline-controllable vs. weather-driven delays, route performance, seasonal patterns, and cancellation root causes.
+
+![Schema Diagram](images/schema-diagram.png)
