@@ -103,3 +103,6 @@ internal operational failures.
 **Finding from Query 3:** September and October average just 5 minutes departure delay, while June averages 14 minutes — nearly three times higher. Query 8 shows December→November has a +5 minute jump (seasonal weather impact).
 **Recommendation:** Allocate premium crews, maintenance slots, and new service launches to September/October when the system naturally has a 9-minute operational buffer. Reserve June/July for status-quo operations and maintenance deferrals. Avoid introducing operational complexity (new routes, fleet transitions) during peak seasons.
 **Why this matters:** You have quantified seasonal capacity. Use it to optimize fleet deployment and crew scheduling, not to fight the system during known peak periods.
+
+📂 [View all 10 SQL queries](analysis_queries.sql)
+
