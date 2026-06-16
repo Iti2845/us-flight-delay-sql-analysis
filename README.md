@@ -105,4 +105,7 @@ internal operational failures.
 **Why this matters:** You have quantified seasonal capacity. Use it to optimize fleet deployment and crew scheduling, not to fight the system during known peak periods.
 
 📂 [View all 10 SQL queries](analysis_queries.sql)
+![Average Arrival Delay by Airline](chart1_airline_delays.png)
+![Monthly Delay Trend](chart2_monthly_trend.png)
+![Cancellation Reasons](chart3_cancellation_reasons_polished.png)
 
